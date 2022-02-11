@@ -1,24 +1,25 @@
 const router = require("express").Router();
 
-// /api/users
+// /api/thoughts
 router
 .route("/")
 .get()
 .post()
 
-// /api/users/id
+
+// /api/thoughts/id
 router
 .route("/:id")
 .get()
 .put()
 .delete()
 
-
-// /api/users/:userId/friends/:friendId
+// /api/thoughts/:thoughtId/reactions
 router
-.route("/:userId/friends/friendId")
-.post()
-.delete()
+.route("/:thoughtId/reactions")
+
+
+
 
 
 module.exports = router;

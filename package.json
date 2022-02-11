@@ -1,0 +1,25 @@
+{
+  "name": "bookface",
+  "version": "1.0.0",
+  "description": "A social media network where users can share their thoughts, react, and create a friends list.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahom-Assefa/BookFace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nahom-Assefa/BookFace/issues"
+  },
+  "homepage": "https://github.com/Nahom-Assefa/BookFace#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
+}
