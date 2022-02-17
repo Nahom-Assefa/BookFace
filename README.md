@@ -13,7 +13,7 @@ This project required us to utilize and apply the concepts we learned in module 
 The challeneges on this assignment came from undoing bad sequel habits I had that lingered in my thinking. From a theoretical perspective it also took some time to wrap my head around what I would need to establish certain methods on the controller object and the subsequent route. For example, creating a reaction only requires a thoughtId, and a json body, but deleting a reaction requires a thoughtId, body, and a reactionId. 
 
 ## Screenshot
-![](/Users/nahom_12/Desktop/BookFace/18-screenshot.png)
+![](/18-screenshot.png)
 
 ## Walk-Through Links
 Video Walk-Through Part 1: https://drive.google.com/file/d/1dMSnEa2gyOK3UxV-5G_Dr1UkIhFw7Tfg/view 
